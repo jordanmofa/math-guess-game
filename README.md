@@ -1,5 +1,5 @@
 # Guessing Game 🎮
-A simple C++ console game built for my CSCE 1030 class.  
+A simple C++ console game built for my computer science class.  
 Players guess the **product**, **quotient**, or **average** of two random numbers between 50 and 100.  
 Points are earned for correct guesses and lost for incorrect ones or when revealing numbers.
 
